@@ -1,30 +1,28 @@
 FAVCOM – AI-Powered eCommerce Platform
 
-Features:
+### Installation
 
-✅ 40,000+ Products from Flipkart dataset (CSV integrated)
+1.Clone the repository
 
-✅ Dynamic Categories auto-generated from dataset
+git clone <your-github-repo-url>
 
-✅ AI-Powered Search with autocomplete & semantic understanding
+cd FAVCOM
 
-✅ Smart Recommendations (highly-rated & wishlist-based)
+2.Run automated setup
 
-✅ Responsive UI/UX (works on Desktop, Tablet, Mobile seamlessly)
+npm run setup
 
-✅ Wishlist + Cart with delete/move options
+This installs dependencies, processes data, and builds the application
 
-✅ Profile Management (edit details, upload profile picture, save order history)
+3.Start development server
 
-✅ Customer Service Pages (Privacy, Terms, Shipping, Returns)
+npm run dev
 
-✅ AI Chatbot (OpenAI) answers contextually with real product data
+4.Access the application
 
-✅ Dark Theme with clean, visible text across all pages
+Local: http://localhost:3000 (click and run)
 
-✅ Filters for sorting products by rating, price (Low→High, High→Low)
-
-✅ Fast & Scalable optimized for large dataset handling
+Network: http://[your-ip]:3000
 
 ### 🛠️ Tech Stack ###
 
@@ -84,6 +82,7 @@ Auto-category generation based on product names & attributes
 
 Dataset Integration → flipkart.csv imported inside src/data/
 
+
 Dynamic Categories → auto-created based on product attributes
 
 AI Search → powered by OpenAI + NLP
@@ -138,30 +137,6 @@ Real-time order tracking with GPS integration
 
 ->OpenAI API key (optional, for AI features)
 
-### Installation
-
-1.Clone the repository
-
-git clone <your-github-repo-url>
-
-cd FAVCOM
-
-2.Run automated setup
-
-npm run setup
-
-This installs dependencies, processes data, and builds the application
-
-3.Start development server
-
-npm run dev
-
-4.Access the application
-
-Local: http://localhost:3000 (click and run)
-
-Network: http://[your-ip]:3000
-
 # we should place API key in under the Utils folder we should create an .env.local(file) and place API key there
 
 # next in same folder create env.local.example same process and we should place our API key in both the "setup-env.js" and "setup.js"
@@ -199,7 +174,6 @@ npm install
 npm run build
 
 npm run dev
-
 
 ### 🤝 Contributing
 
@@ -401,3 +375,28 @@ FAVCOM/
 
 └── 📄 tsconfig.json                 # TypeScript configuration
 
+Features:
+
+✅ 40,000+ Products from Flipkart dataset (CSV integrated)
+
+✅ Dynamic Categories auto-generated from dataset
+
+✅ AI-Powered Search with autocomplete & semantic understanding
+
+✅ Smart Recommendations (highly-rated & wishlist-based)
+
+✅ Responsive UI/UX (works on Desktop, Tablet, Mobile seamlessly)
+
+✅ Wishlist + Cart with delete/move options
+
+✅ Profile Management (edit details, upload profile picture, save order history)
+
+✅ Customer Service Pages (Privacy, Terms, Shipping, Returns)
+
+✅ AI Chatbot (OpenAI) answers contextually with real product data
+
+✅ Dark Theme with clean, visible text across all pages
+
+✅ Filters for sorting products by rating, price (Low→High, High→Low)
+
+✅ Fast & Scalable optimized for large dataset handling
