@@ -162,6 +162,10 @@ Local: http://localhost:3000 (click and run)
 
 Network: http://[your-ip]:3000
 
+# we should place API key in under the Utils folder we should create an .env.local(file) and place API key there
+
+# next in same folder create env.local.example same process and we should place our API key in both the "setup-env.js" and "setup.js"
+
 '''# Available Scripts: #'''
 
 # Development #
