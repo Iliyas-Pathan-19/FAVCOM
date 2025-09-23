@@ -1,0 +1,48 @@
+{
+  "name": "ecom2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "fetch:products": "tsx src/scripts/fetch-products.ts",
+    "flipkart:build": "tsx src/scripts/flipkart-csv-to-json.ts",
+    "process:data": "tsx src/scripts/process-flipkart-data.ts",
+    "start": "next start",
+    "lint": "eslint",
+    "type-check": "tsc --noEmit",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:performance": "npm run build && npm run start & sleep 10 && curl -f http://localhost:3000/api/health",
+    "docker:build": "docker build -t favcom .",
+    "docker:run": "docker run -p 3000:3000 favcom",
+    "docker:compose": "docker-compose up -d",
+    "docker:compose:down": "docker-compose down",
+    "setup": "node setup.js"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "clsx": "^2.1.1",
+    "csv-parser": "^3.2.0",
+    "next": "15.5.3",
+    "openai": "^5.22.1",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/jest": "^29.5.0",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.3",
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0",
+    "tailwindcss": "^4",
+    "tsx": "^4.20.5",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,974 @@
+[
+  {
+    "name": "Clothing",
+    "count": 6198
+  },
+  {
+    "name": "Jewellery",
+    "count": 3531
+  },
+  {
+    "name": "Footwear",
+    "count": 1227
+  },
+  {
+    "name": "Mobiles & Accesso...",
+    "count": 1099
+  },
+  {
+    "name": "Automotive",
+    "count": 1012
+  },
+  {
+    "name": "Home Decor & Fest...",
+    "count": 929
+  },
+  {
+    "name": "Beauty and Person...",
+    "count": 710
+  },
+  {
+    "name": "Home Furnishing",
+    "count": 700
+  },
+  {
+    "name": "Kitchen & Dining",
+    "count": 647
+  },
+  {
+    "name": "Computers",
+    "count": 578
+  },
+  {
+    "name": "Watches",
+    "count": 530
+  },
+  {
+    "name": "Baby Care",
+    "count": 483
+  },
+  {
+    "name": "Tools & Hardware",
+    "count": 391
+  },
+  {
+    "name": "Toys & School Sup...",
+    "count": 330
+  },
+  {
+    "name": "Pens & Stationery",
+    "count": 313
+  },
+  {
+    "name": "Bags, Wallets & B...",
+    "count": 265
+  },
+  {
+    "name": "Furniture",
+    "count": 180
+  },
+  {
+    "name": "Sports & Fitness",
+    "count": 166
+  },
+  {
+    "name": "Cameras & Accesso...",
+    "count": 82
+  },
+  {
+    "name": "Home Improvement",
+    "count": 81
+  },
+  {
+    "name": "Health & Personal...",
+    "count": 43
+  },
+  {
+    "name": "Sunglasses",
+    "count": 40
+  },
+  {
+    "name": "Gaming",
+    "count": 35
+  },
+  {
+    "name": "Pet Supplies",
+    "count": 30
+  },
+  {
+    "name": "Home & Kitchen",
+    "count": 24
+  },
+  {
+    "name": "Home Entertainment",
+    "count": 19
+  },
+  {
+    "name": "eBooks",
+    "count": 15
+  },
+  {
+    "name": "Eyewear",
+    "count": 10
+  },
+  {
+    "name": "Vishudh Printed W...",
+    "count": 9
+  },
+  {
+    "name": "Clovia Women's Fu...",
+    "count": 9
+  },
+  {
+    "name": "Lilliput Top Baby...",
+    "count": 8
+  },
+  {
+    "name": "Olvin Aviator Sun...",
+    "count": 7
+  },
+  {
+    "name": "Clovia Women's T-...",
+    "count": 6
+  },
+  {
+    "name": "MASARA Solid Wome...",
+    "count": 5
+  },
+  {
+    "name": "TIMBERLAKE Slim F...",
+    "count": 5
+  },
+  {
+    "name": "Ruhi's Creations ...",
+    "count": 5
+  },
+  {
+    "name": "Dressberry Gold S...",
+    "count": 4
+  },
+  {
+    "name": "Pu-Good Women Flats",
+    "count": 4
+  },
+  {
+    "name": "Urban Girl Founda...",
+    "count": 4
+  },
+  {
+    "name": "FEET FLOW Women F...",
+    "count": 4
+  },
+  {
+    "name": "Olvin Wayfarer Su...",
+    "count": 4
+  },
+  {
+    "name": "Firangi Cotton, P...",
+    "count": 4
+  },
+  {
+    "name": "Household Supplies",
+    "count": 4
+  },
+  {
+    "name": "Indistar Self Des...",
+    "count": 3
+  },
+  {
+    "name": "ANAND ARCHIES Gir...",
+    "count": 3
+  },
+  {
+    "name": "NEWGEN TECH EO-HS...",
+    "count": 3
+  },
+  {
+    "name": "Treppe Bellies",
+    "count": 3
+  },
+  {
+    "name": "Frabjous German s...",
+    "count": 3
+  },
+  {
+    "name": "fourgee Slim Fit ...",
+    "count": 3
+  },
+  {
+    "name": "Pout Brass Bangle",
+    "count": 3
+  },
+  {
+    "name": "Olvin Oval Sungla...",
+    "count": 3
+  },
+  {
+    "name": "Dilan Jewels Allo...",
+    "count": 3
+  },
+  {
+    "name": "Dassler Slim Fit ...",
+    "count": 3
+  },
+  {
+    "name": "Libas Printed Wom...",
+    "count": 2
+  },
+  {
+    "name": "Food & Nutrition",
+    "count": 2
+  },
+  {
+    "name": "Mast & Harbour Bl...",
+    "count": 2
+  },
+  {
+    "name": "Dressberry Black ...",
+    "count": 2
+  },
+  {
+    "name": "Power Smart Quick...",
+    "count": 2
+  },
+  {
+    "name": "Gking Hand Stiche...",
+    "count": 2
+  },
+  {
+    "name": "Threads & Pals Fu...",
+    "count": 2
+  },
+  {
+    "name": "Wearable Smart De...",
+    "count": 2
+  },
+  {
+    "name": "TSG Breeze Printe...",
+    "count": 2
+  },
+  {
+    "name": "classyworld Brass...",
+    "count": 2
+  },
+  {
+    "name": "HANS Men's Crew L...",
+    "count": 2
+  },
+  {
+    "name": "SMART TRADERS Wom...",
+    "count": 2
+  },
+  {
+    "name": "COIRFIT Single Co...",
+    "count": 2
+  },
+  {
+    "name": "Legmark Slim Fit ...",
+    "count": 2
+  },
+  {
+    "name": "Siyas Collection ...",
+    "count": 2
+  },
+  {
+    "name": "killys Men's Soli...",
+    "count": 2
+  },
+  {
+    "name": "INDILEGO Women Flats",
+    "count": 2
+  },
+  {
+    "name": "Oly Two Fit Fit W...",
+    "count": 2
+  },
+  {
+    "name": "Olvin Rectangular...",
+    "count": 2
+  },
+  {
+    "name": "soie Fashion Wome...",
+    "count": 2
+  },
+  {
+    "name": "D&D Women Flats",
+    "count": 2
+  },
+  {
+    "name": "Ajaero Slim Fit W...",
+    "count": 2
+  },
+  {
+    "name": "The Cotton Compan...",
+    "count": 2
+  },
+  {
+    "name": "Camey Men's Quart...",
+    "count": 2
+  },
+  {
+    "name": "Amita Home Furnis...",
+    "count": 2
+  },
+  {
+    "name": "Crafty Hands Kutc...",
+    "count": 2
+  },
+  {
+    "name": "Anuradha Art Styl...",
+    "count": 2
+  },
+  {
+    "name": "GALLOWAY skinny F...",
+    "count": 2
+  },
+  {
+    "name": "EASIES Solid Sing...",
+    "count": 2
+  },
+  {
+    "name": "Corcepts Universa...",
+    "count": 2
+  },
+  {
+    "name": "Eternal Gandhi Su...",
+    "count": 1
+  },
+  {
+    "name": "Bengal Blooms Ros...",
+    "count": 1
+  },
+  {
+    "name": "BuildTrack PIR Wi...",
+    "count": 1
+  },
+  {
+    "name": "Skayvon SUMMERSIB...",
+    "count": 1
+  },
+  {
+    "name": "Skayvon SUBMERSIB...",
+    "count": 1
+  },
+  {
+    "name": "Behringer Xenyx 5...",
+    "count": 1
+  },
+  {
+    "name": "Noor Embroidered ...",
+    "count": 1
+  },
+  {
+    "name": "Cellbazaar Blackb...",
+    "count": 1
+  },
+  {
+    "name": "Sisel Printed Pol...",
+    "count": 1
+  },
+  {
+    "name": "Knight Ace Kraasa...",
+    "count": 1
+  },
+  {
+    "name": "Glacier Running S...",
+    "count": 1
+  },
+  {
+    "name": "Asics Gel-Cumulus...",
+    "count": 1
+  },
+  {
+    "name": "Mast & Harbour Go...",
+    "count": 1
+  },
+  {
+    "name": "Asics Gel-Kayano ...",
+    "count": 1
+  },
+  {
+    "name": "Dressberry Orange...",
+    "count": 1
+  },
+  {
+    "name": "Dressberry Green ...",
+    "count": 1
+  },
+  {
+    "name": "Escan Lace Up",
+    "count": 1
+  },
+  {
+    "name": "Nine Maternity We...",
+    "count": 1
+  },
+  {
+    "name": "Prime Printed 8 S...",
+    "count": 1
+  },
+  {
+    "name": "Speedwav 240437 S...",
+    "count": 1
+  },
+  {
+    "name": "Vitamins Solid Ba...",
+    "count": 1
+  },
+  {
+    "name": "Sumo Baby Walker ...",
+    "count": 1
+  },
+  {
+    "name": "Kombee Girl's Pri...",
+    "count": 1
+  },
+  {
+    "name": "Automation & Robo...",
+    "count": 1
+  },
+  {
+    "name": "K&P Dr.Ambedkar L...",
+    "count": 1
+  },
+  {
+    "name": "K&P Lord Ganesha ...",
+    "count": 1
+  },
+  {
+    "name": "Adidas IND PRO TH...",
+    "count": 1
+  },
+  {
+    "name": "Bootwale Bellies",
+    "count": 1
+  },
+  {
+    "name": "clickforsign Avoi...",
+    "count": 1
+  },
+  {
+    "name": "Kanvas Bellies",
+    "count": 1
+  },
+  {
+    "name": "Klaur Melbourne B...",
+    "count": 1
+  },
+  {
+    "name": "Clickforsign Vehi...",
+    "count": 1
+  },
+  {
+    "name": "clickforsign Soun...",
+    "count": 1
+  },
+  {
+    "name": "kem Flow Gold ski...",
+    "count": 1
+  },
+  {
+    "name": "Carbanao Chrome G...",
+    "count": 1
+  },
+  {
+    "name": "Oddy RS 1.5 X 2 1...",
+    "count": 1
+  },
+  {
+    "name": "Synergy SFJB0105 ...",
+    "count": 1
+  },
+  {
+    "name": "SHOPOJ White Pape...",
+    "count": 1
+  },
+  {
+    "name": "SUPERMOD Men's Brief",
+    "count": 1
+  },
+  {
+    "name": "Zevrr Sterling Si...",
+    "count": 1
+  },
+  {
+    "name": "Rasav Jewels Yell...",
+    "count": 1
+  },
+  {
+    "name": "Royal Seal Creati...",
+    "count": 1
+  },
+  {
+    "name": "ANASAZI Casual 3/...",
+    "count": 1
+  },
+  {
+    "name": "INVENTURE RETAIL ...",
+    "count": 1
+  },
+  {
+    "name": "Fabpoppy Printed ...",
+    "count": 1
+  },
+  {
+    "name": "GM Power mate 4 S...",
+    "count": 1
+  },
+  {
+    "name": "Shrih SH-0192 Wir...",
+    "count": 1
+  },
+  {
+    "name": "xy decor Cotton S...",
+    "count": 1
+  },
+  {
+    "name": "Favourite BikerZ ...",
+    "count": 1
+  },
+  {
+    "name": "Disney Printed Ba...",
+    "count": 1
+  },
+  {
+    "name": "Little Stars Girl...",
+    "count": 1
+  },
+  {
+    "name": "The Crazy Me 1 Co...",
+    "count": 1
+  },
+  {
+    "name": "Laser X Checkered...",
+    "count": 1
+  },
+  {
+    "name": "INKT INKT A5 Wiro...",
+    "count": 1
+  },
+  {
+    "name": "E'Hiose Girl's Le...",
+    "count": 1
+  },
+  {
+    "name": "Lucky Thailand GL...",
+    "count": 1
+  },
+  {
+    "name": "Ocean GP/Pyramid ...",
+    "count": 1
+  },
+  {
+    "name": "Wella Elements Le...",
+    "count": 1
+  },
+  {
+    "name": "Jazz Eyewears Ove...",
+    "count": 1
+  },
+  {
+    "name": "Miss Wow Slim Fit...",
+    "count": 1
+  },
+  {
+    "name": "PrivateLifes Mast...",
+    "count": 1
+  },
+  {
+    "name": "Spa Culture Fit F...",
+    "count": 1
+  },
+  {
+    "name": "run of luck Solid...",
+    "count": 1
+  },
+  {
+    "name": "SAY UV Sterilizer...",
+    "count": 1
+  },
+  {
+    "name": "piftif Women's Sp...",
+    "count": 1
+  },
+  {
+    "name": "REMSON INDIA Wome...",
+    "count": 1
+  },
+  {
+    "name": "Starsy Solid Wome...",
+    "count": 1
+  },
+  {
+    "name": "Auraa Men's, Wome...",
+    "count": 1
+  },
+  {
+    "name": "e-Fresh Boy's Bri...",
+    "count": 1
+  },
+  {
+    "name": "Attitude Printed ...",
+    "count": 1
+  },
+  {
+    "name": "Kalpaveda Copper ...",
+    "count": 1
+  },
+  {
+    "name": "Walkline Slippers",
+    "count": 1
+  },
+  {
+    "name": "e-Fresh Baby Boy'...",
+    "count": 1
+  },
+  {
+    "name": "SAY Thread Wounde...",
+    "count": 1
+  },
+  {
+    "name": "Samprada Modern a...",
+    "count": 1
+  },
+  {
+    "name": "Naaz Dart game Bo...",
+    "count": 1
+  },
+  {
+    "name": "Viral Girl Women'...",
+    "count": 1
+  },
+  {
+    "name": "Wellon Fittings s...",
+    "count": 1
+  },
+  {
+    "name": "Impala Alloy Cuff...",
+    "count": 1
+  },
+  {
+    "name": "Naaz 2 in 1 Paper...",
+    "count": 1
+  },
+  {
+    "name": "Starsy Printed Wo...",
+    "count": 1
+  },
+  {
+    "name": "Fly U Slim Fit Fi...",
+    "count": 1
+  },
+  {
+    "name": "tadd Men's, Women...",
+    "count": 1
+  },
+  {
+    "name": "Dolz Slim Fit Fit...",
+    "count": 1
+  },
+  {
+    "name": "Shrih Toe & Foot ...",
+    "count": 1
+  },
+  {
+    "name": "LondonHouze Print...",
+    "count": 1
+  },
+  {
+    "name": "Linzina Fashions ...",
+    "count": 1
+  },
+  {
+    "name": "Clovia Women's Pl...",
+    "count": 1
+  },
+  {
+    "name": "Foot Candy Women ...",
+    "count": 1
+  },
+  {
+    "name": "883 Police Full S...",
+    "count": 1
+  },
+  {
+    "name": "Style World Women...",
+    "count": 1
+  },
+  {
+    "name": "Just Wow Women Flats",
+    "count": 1
+  },
+  {
+    "name": "SJ Bushnell 122/1...",
+    "count": 1
+  },
+  {
+    "name": "SJ Barstel 56m / ...",
+    "count": 1
+  },
+  {
+    "name": "SJ Comet Zoom DPS...",
+    "count": 1
+  },
+  {
+    "name": "Pia International...",
+    "count": 1
+  },
+  {
+    "name": "SHOPOJ Purple Pap...",
+    "count": 1
+  },
+  {
+    "name": "Car vastra 1pcs C...",
+    "count": 1
+  },
+  {
+    "name": "SHOPOJ Yellow Pap...",
+    "count": 1
+  },
+  {
+    "name": "SHOPOJ Multicolor...",
+    "count": 1
+  },
+  {
+    "name": "Sj Bushnell 119M ...",
+    "count": 1
+  },
+  {
+    "name": "FIFO Bottom Women...",
+    "count": 1
+  },
+  {
+    "name": "Himmlisch 20503 C...",
+    "count": 1
+  },
+  {
+    "name": "V&G Professional ...",
+    "count": 1
+  },
+  {
+    "name": "Shonaya Printed B...",
+    "count": 1
+  },
+  {
+    "name": "JUSF2 Black Color...",
+    "count": 1
+  },
+  {
+    "name": "Sonaxo Men Runnin...",
+    "count": 1
+  },
+  {
+    "name": "Koie  Battery - F...",
+    "count": 1
+  },
+  {
+    "name": "OEM 170774 Bike S...",
+    "count": 1
+  },
+  {
+    "name": "Kittens Boys Flats",
+    "count": 1
+  },
+  {
+    "name": "AutoKraftZ Optimu...",
+    "count": 1
+  },
+  {
+    "name": "Dremel 2615.023.1...",
+    "count": 1
+  },
+  {
+    "name": "ABEEZ Boys, Men, ...",
+    "count": 1
+  },
+  {
+    "name": "Joyra Heart Sterl...",
+    "count": 1
+  },
+  {
+    "name": "BLM Casual Printe...",
+    "count": 1
+  },
+  {
+    "name": "SMART DENIM Solid...",
+    "count": 1
+  },
+  {
+    "name": "ATV Pouch for Ace...",
+    "count": 1
+  },
+  {
+    "name": "Be 13 Printed Boy...",
+    "count": 1
+  },
+  {
+    "name": "Taurus Black & wh...",
+    "count": 1
+  },
+  {
+    "name": "Abhinl Fashion Co...",
+    "count": 1
+  },
+  {
+    "name": "UFO Self Design R...",
+    "count": 1
+  },
+  {
+    "name": "LGRL Women's Legg...",
+    "count": 1
+  },
+  {
+    "name": "Breakbounce Men's...",
+    "count": 1
+  },
+  {
+    "name": "UFO Full Sleeve S...",
+    "count": 1
+  },
+  {
+    "name": "BALAJI EXPORTS Bo...",
+    "count": 1
+  },
+  {
+    "name": "Siemens 5SL Betag...",
+    "count": 1
+  },
+  {
+    "name": "Remax Rm-10000 Re...",
+    "count": 1
+  },
+  {
+    "name": "Boreal Roller Brush",
+    "count": 1
+  },
+  {
+    "name": "Srajanaa sr114 Tr...",
+    "count": 1
+  },
+  {
+    "name": "Selfcare Women's ...",
+    "count": 1
+  },
+  {
+    "name": "Sugandh Vatika 24...",
+    "count": 1
+  },
+  {
+    "name": "Arial Morris Wome...",
+    "count": 1
+  },
+  {
+    "name": "Zikrak Exim Women...",
+    "count": 1
+  },
+  {
+    "name": "Zixtro Bug (Black...",
+    "count": 1
+  },
+  {
+    "name": "New Darling Women...",
+    "count": 1
+  },
+  {
+    "name": "RajeshFashion Wom...",
+    "count": 1
+  },
+  {
+    "name": "United Colors of ...",
+    "count": 1
+  },
+  {
+    "name": "SRPC BAOER STARWA...",
+    "count": 1
+  },
+  {
+    "name": "Kraft Seeds Rosem...",
+    "count": 1
+  },
+  {
+    "name": "Autoplus M AP15 A...",
+    "count": 1
+  },
+  {
+    "name": "Autoplus M AP18 A...",
+    "count": 1
+  },
+  {
+    "name": "Kraft Seeds Thyme...",
+    "count": 1
+  },
+  {
+    "name": "Kraft Seeds Dill ...",
+    "count": 1
+  },
+  {
+    "name": "Leading lady Wome...",
+    "count": 1
+  },
+  {
+    "name": "Yo Baby Girl's Tr...",
+    "count": 1
+  },
+  {
+    "name": "THERISE MD0005 Wi...",
+    "count": 1
+  },
+  {
+    "name": "Nut Khut Embroide...",
+    "count": 1
+  },
+  {
+    "name": "Vinenzia Printed ...",
+    "count": 1
+  },
+  {
+    "name": "Planet Waves Wood...",
+    "count": 1
+  },
+  {
+    "name": "Speedwav 216456 M...",
+    "count": 1
+  },
+  {
+    "name": "Speedwav 216510 M...",
+    "count": 1
+  },
+  {
+    "name": "Speedwav 216552 M...",
+    "count": 1
+  },
+  {
+    "name": "Speedwav 186136 M...",
+    "count": 1
+  },
+  {
+    "name": "Small Toes Bellies",
+    "count": 1
+  },
+  {
+    "name": "Clovia Lingerie Set",
+    "count": 1
+  },
+  {
+    "name": "Speedwav 186926 R...",
+    "count": 1
+  },
+  {
+    "name": "Speedwav 186879 B...",
+    "count": 1
+  },
+  {
+    "name": "Pazel Slim Fit Me...",
+    "count": 1
+  },
+  {
+    "name": "SMART TRADERS Gir...",
+    "count": 1
+  },
+  {
+    "name": "Areon Luxurious F...",
+    "count": 1
+  }
+]
