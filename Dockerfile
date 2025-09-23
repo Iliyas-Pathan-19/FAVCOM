@@ -1,7 +1,7 @@
 # Multi-stage build for production-ready FAVCOM e-commerce application
 
 # Stage 1: Build the application
-FROM node:18-alpine AS builder
+FROM node:24-alpine AS builder
 
 # Set working directory
 WORKDIR /app
@@ -19,7 +19,7 @@ COPY . .
 RUN npm run build
 
 # Stage 2: Production image
-FROM node:18-alpine AS runner
+FROM node:24-alpine AS runner
 
 # Set working directory
 WORKDIR /app
